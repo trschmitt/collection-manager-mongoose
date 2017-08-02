@@ -2,7 +2,7 @@
 
 Written for the use of students at The Iron Yard.
 
-#### Student edits
+## Student edits
 
 Edited Naming conventions to fit project format
 
